@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ApiMac"
+rootProject.name = "AppGenerateMac"
 include(":app")
  
